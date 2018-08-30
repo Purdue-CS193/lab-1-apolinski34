@@ -1,3 +1,10 @@
+# Anthony Polinsk's first CS193 Lab
+- Students teaching the class providing relevant info from the past couple years
+- No Midterms/Final!
+- Respectful environment 
+- Great supplement to a tough class 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
