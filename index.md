@@ -1,4 +1,4 @@
-# Anthony Polinsk's first CS193 Lab
+# Anthony Polinski's First CS193 Lab
 - Students teaching the class providing relevant info from the past couple years
 - No Midterms/Final!
 - Respectful environment 
